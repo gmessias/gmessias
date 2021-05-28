@@ -25,7 +25,7 @@ Estudando :book: :
 </div>
 
 ### **Sobre**  :mag:
-<p>Nasci em Goiânia, no estado de Goiás. Faço Ciência da Computação na UFG, e sou um grande amante da tecnologia. :rocket:</br>
+<p> :rocket: Nasci em Goiânia, no estado de Goiás. Faço Ciência da Computação na UFG, e sou um grande amante da tecnologia. :rocket:</br>
 <p>:boom: Quero me tornar um <strong>grande desenvolvedor</strong>. Para isto, procuro trabalhar no desenvolvimento de aplicativos mobile e por fora vou desenvolvendo meu jogo onde quero contar uma história fictícia <strong>emocionante</strong>. :boom:</br>
 <p>:brazil: :computer: Atualmente trabalho no <strong>Tribunal Regional Eleitoral de Goiás</strong> como estagiário, comecei como suporte e fui convidado a participar de um grande projeto, que obviamente topei. Dois meses depois viajei para <strong>Salvador/BA</strong> e poucas semanas depois para <strong>Campo Grande/MS</strong> para implementar esse projeto. Um estagiário viajar com tudo pago para levar um projeto... <strong>IRADO!!</strong> :sunglasses:</br>
 <p>:necktie: :computer: Trabalhei como estagiário na <strong>Comissão Permanente do Pessoal Docente</strong> da UFG como suporte ao usuário.</br>
