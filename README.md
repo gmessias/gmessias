@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Sou o Gabriel
+### Hi there 👋 Gabriel here!
 ---------------------
 <img src ="https://i.giphy.com/media/srk64M0dMy6syQm8or/giphy.webp" alt="Hello"/>
 
