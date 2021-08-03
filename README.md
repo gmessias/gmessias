@@ -1,5 +1,6 @@
 # **Hi there 👋 Gabriel here!**
 ---------------------
+<div align="center">
 <img src ="https://i.giphy.com/media/srk64M0dMy6syQm8or/giphy.webp" alt="Hello"/>
 
 <div>
@@ -20,7 +21,9 @@
 <img src ="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 <img src ="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
 </div>
-Estudando :book: :
+  
+### **Estudando** :book:
+
 <div>
 <img src ="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src ="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -29,7 +32,9 @@ Estudando :book: :
 <img src ="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 <img src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
-Lazer :video_game: :books::
+
+### **Lazer** :video_game: :books:
+
 <div>
 <img src ="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
 <img src ="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"/>
