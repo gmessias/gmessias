@@ -49,3 +49,5 @@
 <p>:wrench: :robot: Ingressei no <strong>Pequi Mecânico</strong>, que é um fantástico grupo de robótica da UFG. Em 2017 ganhamos um <strong>prêmio</strong> de <strong>reconhecimento da UFG</strong>. Ano seguinte fui capitão da modalidade <strong>2d Soccer Simulation</strong> e coordenei uma equipe de 4 pessoas.</br>
 :trophy: <a href="https://ww2.inf.ufg.br/node/1175/">Reconhecimento da UFG</a> :trophy: 
 <p>:necktie: :computer: Fui colaborador da <strong>Empresa Júnior Level 5</strong>, onde apliquei conhecimentos da faculdade e aprendi muito a trabalhar em equipe. Tenho um grande carinho com as pessoas de lá e foi <strong>meu primeiro passo</strong> como profissional.
+
+  </div>
