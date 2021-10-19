@@ -43,7 +43,7 @@
 
 ### **Sobre**  :mag:
 <p> :rocket: Nasci em Goiânia, no estado de Goiás. Faço Ciência da Computação na UFG, e sou um grande amante da tecnologia. :rocket:</br>
-<p>:boom: Quero me tornar um <strong>grande desenvolvedor</strong>. Para isto, procuro trabalhar no desenvolvimento de aplicativos mobile e por fora vou desenvolvendo meu jogo onde quero contar uma história fictícia <strong>emocionante</strong>. :boom:</br>
+<p>:boom: Quero me tornar um <strong>grande desenvolvedor</strong>. Para isto, procuro trabalhar no desenvolvimento e por fora vou desenvolvendo meu jogo onde quero contar uma história fictícia <strong>emocionante</strong>. :boom:</br>
 <p>:brazil: :computer: Comecei a trabalhar no <strong>Tribunal Regional Eleitoral de Goiás</strong> como estagiário, comecei como suporte e fui convidado a participar de um grande projeto, que obviamente topei. Dois meses depois viajei para <strong>Salvador/BA</strong> e poucas semanas depois para <strong>Campo Grande/MS</strong> para implementar esse projeto. Foi uma experiência muito daora e o sentimento de estar automatizando e trazendo soluções para um órgão tão grande é muito satisfatório. Consequência disso fomos reconhecidos pelo presidente do TRE/MS pelo trabalho prestado. Me sinto bastante honrado! :sunglasses:</br>
 <p>:necktie: :computer: Trabalhei como estagiário na <strong>Comissão Permanente do Pessoal Docente</strong> da UFG como suporte ao usuário.</br>
 <p>:wrench: :robot: Ingressei no <strong>Pequi Mecânico</strong>, que é um fantástico grupo de robótica da UFG. Em 2017 ganhamos um <strong>prêmio</strong> de <strong>reconhecimento da UFG</strong>. Ano seguinte fui capitão da modalidade <strong>2d Soccer Simulation</strong> e coordenei uma equipe de 4 pessoas.</br>
