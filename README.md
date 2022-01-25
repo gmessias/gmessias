@@ -4,7 +4,7 @@
 <img src ="https://i.giphy.com/media/srk64M0dMy6syQm8or/giphy.webp" alt="Hello"/>
 
 <div>
-<a href="https://www.linkedin.com/in/gabrielpacheco18/"><img src ="https://img.shields.io/badge/GMessias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/gmessiasp/"><img src ="https://img.shields.io/badge/GMessias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:gmessiasp@gmail.com"><img src ="https://img.shields.io/badge/gmessiasp@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/gmessiasp/"><img src ="https://img.shields.io/badge/gmessiasp-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
@@ -28,7 +28,7 @@
 <img src ="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src ="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src ="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-<img src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<!-- <img src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> -->
 <!-- <img src ="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> -->
 <!-- <img src ="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> -->
 <!-- <img src ="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/> -->
