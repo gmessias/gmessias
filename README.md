@@ -13,20 +13,14 @@
 
   <div>
   <img alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="CSharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img alt="Dotnet Core" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img alt="Javascript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="Photoshop" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-  <img alt="Illustrator" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
   </div>
   
 ### **Estudando** :book:
 
   <div>
-  <img alt="CSharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img alt="Dotnet Core" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img alt="NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img alt="Unity" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
   </div>
 
