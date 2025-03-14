@@ -13,6 +13,6 @@
 
 ## **Contacts**
 <div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/gmessiasp/"><img src ="https://img.shields.io/badge/GMessias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gmessiasp/"><img src ="https://img.shields.io/badge/LinkedIn GMessias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:gmessiasp@gmail.com"><img src ="https://img.shields.io/badge/gmessiasp@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
