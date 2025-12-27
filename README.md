@@ -1,4 +1,4 @@
-# Gabriel Messias
+# 😎 Gabriel Messias
 
 **`Developer`**
 
@@ -8,7 +8,7 @@ I'm a full-stack software developer with a strong passion for backend developmen
 
 ---
 
-### Languages and Tools
+### 🧰 Languages and Tools
 
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Dotnet" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
@@ -28,16 +28,8 @@ I'm a full-stack software developer with a strong passion for backend developmen
 
 ---
 
-### Links
+### 🔗 Links
 
-<p align="left">
-  <a href="https://gmessias-blog.gmessias.workers.dev/">
-    <img alt="my personal blog gmessias" title="Blog GMessias" src ="https://img.shields.io/badge/gmessias blog-black.svg?style=for-the-badge&logo=Hugo"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gmessiasp/">
-    <img alt="my linkedin gmessiasp" title="Linkedin gmessiasp" src ="https://img.shields.io/badge/linkedin gmessias-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:gmessiasp@gmail.com">
-    <img alt="my email gmessiasp" title="Email gmessiasp" src ="https://img.shields.io/badge/gmessiasp@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+[![Blog](https://img.shields.io/badge/gmessias%20blog-black.svg?style=for-the-badge&logo=Hugo)](https://gmessias-blog.gmessias.workers.dev/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gmessiasp/)
+[![Email](https://img.shields.io/badge/-Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gmessiasp@gmail.com)
